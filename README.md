@@ -1,7 +1,7 @@
-📖 Project Overview
+## 📖 Project Overview
 Real-time monitoring and automated alerting for AWS infrastructure using CloudWatch and SNS with Terraform infrastructure-as-code.
 
-🏗️ Architecture
+## 🏗️ Architecture
 CloudWatch: Metrics collection, threshold monitoring, and alarms
 
 SNS: Multi-channel notification distribution (Email/SMS)
@@ -10,7 +10,7 @@ EC2: Monitored compute instances
 
 IAM: Secure permission management
 
-🚀 Quick Deployment
+## 🚀 Quick Deployment
 Method 1: AWS Console
 Create SNS Topic → Add Email subscription
 
@@ -18,11 +18,12 @@ Create CloudWatch Alarm on EC2 CPU > 70%
 
 Connect Alarm to SNS for notifications
 
-Method 2: Terraform (Recommended)
+## Method 2: Terraform (Recommended)
 bash
 terraform init
 terraform apply
-📋 What's Included
+
+## 📋 What's Included
 ✅ Real-time EC2 monitoring
 
 ✅ Email/SMS alert notifications
