@@ -33,9 +33,14 @@ terraform apply
 
 ✅ Automated incident detection
 
-### 🔗 Full Documentation & Demo
+## 🔗 Full Documentation & Demo
 
 📚 Complete Project Documentation: [[Notion Page Link]](https://www.notion.so/Cloud-Monitoring-Alerting-System-CloudWatch-SNS-2ccafa903f8a805d8d1ada87e893cf5f?source=copy_link)
 
 🎥 Video Demonstration: [Video Demo Link]
 💻 Source Code: [GitHub Repository Link]
+
+## Contact
+-Name : Adeoye Emmanuel
+-Email: Emmanuelofgrace@gmail.com
+-GitHub: DOTWEB2020
