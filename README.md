@@ -41,7 +41,10 @@ terraform apply
 🎥 Video Demonstration: [Video Demo Link]
 💻 Source Code: [GitHub Repository Link]
 
-## Contact
--Name : Adeoye Emmanuel
--Email: Emmanuelofgrace@gmail.com
--GitHub: DOTWEB2020
+## **👤** Author
+**Adeoye Emmanuel** - Solution Architect
+
+**Email:** Emmanuelofgrace@gmail.com
+
+💼 LinkedIn: [[LinkedIn Profile]](www.linkedin.com/in/emmanuel-adeoye-29187bb7)
+
